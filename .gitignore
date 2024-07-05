@@ -1,0 +1,8 @@
+__pycache__
+/test
+/.idea
+/images
+/sift_image.db
+/dist
+/main.spec
+/build

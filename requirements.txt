@@ -1,0 +1,7 @@
+PyQt5
+PyQtWebEngine
+opencv-python
+joblib
+scikit-learn
+pyinstaller==5.13.2
+toml
